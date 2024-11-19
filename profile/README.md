@@ -1,6 +1,4 @@
-# Hi there 👋
-
-[![Visits Badge](https://badges.pufler.dev/visits/CofficLab/badge-it)](https://badges.pufler.dev)
+# Welcome 👏
 
 We are developing software with love here.  
 
