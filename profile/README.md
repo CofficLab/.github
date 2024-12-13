@@ -1,4 +1,4 @@
-# Welcome 👏
+# 🕶️ Craft Simple, Deliver Powerful 😊
 
 We are developing software with love here.  
 
