@@ -1,7 +1,6 @@
 # 🕶️ Craft Simple, Deliver Powerful 😊
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/cofficlab)
-[![Visits Badge](https://badges.pufler.dev/visits/cofficlab/badge-it)](https://badges.pufler.dev)
 ![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![](https://img.shields.io/badge/-JavaScript-oringe?logo=javascript)
